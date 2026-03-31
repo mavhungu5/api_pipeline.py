@@ -13,7 +13,7 @@ This project extracts real-time data from an API and stores it in a database.
 - Python (requests, pandas)
 - SQLite
 
-##API 
+## API 
 url = (["https://api.exchangerate.host/latest?base=EUR"])
 
 ## Outcome
